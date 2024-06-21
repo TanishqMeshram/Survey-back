@@ -69,7 +69,7 @@ const additionalQuestions = {
 };
 
 app.use(cors({
-  origin: 'https://level3-survey-form.netlify.app',
+  origin: 'https://level3-surveyform.netlify.app',
   methods: ['GET', 'POST'],
   allowedHeaders: ['Content-Type'],
 }));
